@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_btn_txt">True</string>
+    <string name="false_btn_txt">False</string>
+    <string name="next_btn_txt">Next</string>
+    <string name="previous_btn_txt">Previous</string>
+
+    <string name="first">Initially name of Java language is Oak</string>
+    <string name="second">Is java release in 1997</string>
+    <string name="third">Is python is older than java</string>
+    <string name="fourth">Lambda expression is introduced in java 8</string>
+    <string name="fifth">Now java is acquired by oracle in 2013</string>
+</resources>
